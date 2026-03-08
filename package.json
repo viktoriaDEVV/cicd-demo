@@ -1,0 +1,23 @@
+{
+  "name": "cicd-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktoriaDEVV/cicd-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktoriaDEVV/cicd-demo/issues"
+  },
+  "homepage": "https://github.com/viktoriaDEVV/cicd-demo#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
